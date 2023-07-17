@@ -51,6 +51,3 @@ Google Fonts - https://fonts.google.com/
 <img src="./assets/images/qr-code (1).png" width="100">
 <img src="./assets/images/qr-code.png" width="100">
 </p>
-
-https://github.com/hotperformancehorses/entertainment-finder
-https://hotperformancehorses.github.io/entertainment-finder/
